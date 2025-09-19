@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# TypeScript build info (optional)
+*.tsbuildinfo
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+## WebStorm project settings
+#.idea/
+
+# Ignore JetBrains WebStorm project settings
+.idea/
+
+
+# macOS specific files
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+
+# Ignore all .xml files
+*.xml
