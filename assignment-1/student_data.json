@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 230001,
+    "NAME": "Azamat",
+    "LASTNAME": "E. Zakirovch",
+    "EMAIL": "a.eshqoziyev@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532101"
+  },
+  {
+    "ID": 230002,
+    "NAME": "Shavkat",
+    "LASTNAME": "Mirzaev",
+    "EMAIL": "s.mirzaev@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532102"
+  },
+  {
+    "ID": 230003,
+    "NAME": "Dilorom",
+    "LASTNAME": "Rahmatova",
+    "EMAIL": "d.rahmatova@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532103"
+  },
+  {
+    "ID": 230004,
+    "NAME": "Sardor",
+    "LASTNAME": "Burxonov",
+    "EMAIL": "s.burxonov@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532104"
+  },
+  {
+    "ID": 230005,
+    "NAME": "Jamshid",
+    "LASTNAME": "Alimov",
+    "EMAIL": "j.alimov@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532105"
+  },
+  {
+    "ID": 230006,
+    "NAME": "Farhod",
+    "LASTNAME": "G'ulomov",
+    "EMAIL": "f.gulomov@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532106"
+  },
+  {
+    "ID": 230007,
+    "NAME": "Nilufar",
+    "LASTNAME": "Jumaniyozova",
+    "EMAIL": "n.jumaniyozova@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532107"
+  },
+  {
+    "ID": 230008,
+    "NAME": "Aziza",
+    "LASTNAME": "Akramova",
+    "EMAIL": "a.akramova@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532108"
+  },
+  {
+    "ID": 230009,
+    "NAME": "Bekzod",
+    "LASTNAME": "Yuldashev",
+    "EMAIL": "b.yuldashev@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532109"
+  },
+  {
+    "ID": 230010,
+    "NAME": "Gulbahor",
+    "LASTNAME": "Murodova",
+    "EMAIL": "g.murodova@newuu.uz",
+    "SCHOOL": "SCHOOL OF COMPUTING",
+    "EDUCATION_PROGRAM": "SOFTWARE ENGINEERING",
+    "PHONE": "+998900532110"
+  }
+]

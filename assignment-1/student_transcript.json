@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 230001,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 95 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 88 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 77 },
+      { "COURSE": "Computer Architecture", "GRADE": 65 },
+      { "COURSE": "Software Engineering", "GRADE": 40 }
+    ]
+  },
+  {
+    "ID": 230002,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 45 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 70 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 80 },
+      { "COURSE": "Computer Architecture", "GRADE": 50 },
+      { "COURSE": "Software Engineering", "GRADE": 99 }
+    ]
+  },
+  {
+    "ID": 230003,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 90 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 80 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 88 },
+      { "COURSE": "Computer Architecture", "GRADE": 100 },
+      { "COURSE": "Software Engineering", "GRADE": 92 }
+    ]
+  },
+  {
+    "ID": 230004,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 55 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 95 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 60 },
+      { "COURSE": "Computer Architecture", "GRADE": 40 },
+      { "COURSE": "Software Engineering", "GRADE": 80 }
+    ]
+  },
+  {
+    "ID": 230005,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 85 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 77 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 90 },
+      { "COURSE": "Computer Architecture", "GRADE": 82 },
+      { "COURSE": "Software Engineering", "GRADE": 100 }
+    ]
+  },
+  {
+    "ID": 230006,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 78 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 63 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 85 },
+      { "COURSE": "Computer Architecture", "GRADE": 91 },
+      { "COURSE": "Software Engineering", "GRADE": 50 }
+    ]
+  },
+  {
+    "ID": 230007,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 65 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 60 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 70 },
+      { "COURSE": "Computer Architecture", "GRADE": 100 },
+      { "COURSE": "Software Engineering", "GRADE": 75 }
+    ]
+  },
+  {
+    "ID": 230008,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 92 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 80 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 84 },
+      { "COURSE": "Computer Architecture", "GRADE": 90 },
+      { "COURSE": "Software Engineering", "GRADE": 88 }
+    ]
+  },
+  {
+    "ID": 230009,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 70 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 66 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 58 },
+      { "COURSE": "Computer Architecture", "GRADE": 40 },
+      { "COURSE": "Software Engineering", "GRADE": 76 }
+    ]
+  },
+  {
+    "ID": 230010,
+    "GRADES": [
+      { "COURSE": "Data Structures and Algorithms", "GRADE": 80 },
+      { "COURSE": "Object-Oriented Programming (OOP)", "GRADE": 87 },
+      { "COURSE": "Discrete Mathematics", "GRADE": 92 },
+      { "COURSE": "Computer Architecture", "GRADE": 65 },
+      { "COURSE": "Software Engineering", "GRADE": 90 }
+    ]
+  }
+]
