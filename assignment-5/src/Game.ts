@@ -26,40 +26,43 @@ export class Game {
 
     public Winner() : string {
         //if the positions in first row are taken
-        if (this._board.TileAt(0, 0)!.Symbol != ' ' &&
-                this._board.TileAt(0, 1)!.Symbol != ' ' &&
-                this._board.TileAt(0, 2)!.Symbol != ' ') {
+        let x = 0
+        if (this._board.TileAt(x, 0)!.Symbol != ' ' &&
+                this._board.TileAt(x, 1)!.Symbol != ' ' &&
+                this._board.TileAt(x, 2)!.Symbol != ' ') {
             //if first row is full with same symbol
-            if (this._board.TileAt(0, 0)!.Symbol ==
-                    this._board.TileAt(0, 1)!.Symbol &&
-                    this._board.TileAt(0, 2)!.Symbol == this._board.TileAt(0, 1)!.Symbol) {
-                return this._board.TileAt(0, 0)!.Symbol;
+            if (this._board.TileAt(x, 0)!.Symbol ==
+                    this._board.TileAt(x, 1)!.Symbol &&
+                    this._board.TileAt(x, 2)!.Symbol == this._board.TileAt(0, 1)!.Symbol) {
+                return this._board.TileAt(x, 0)!.Symbol;
             }
         }
 
-        //if the positions in first row are taken
-        if (this._board.TileAt(1, 0)!.Symbol != ' ' &&
-                this._board.TileAt(1, 1)!.Symbol != ' ' &&
-                this._board.TileAt(1, 2)!.Symbol != ' ') {
+        //if the positions in second row are taken
+        x = 1
+        if (this._board.TileAt(x, 0)!.Symbol != ' ' &&
+                this._board.TileAt(x, 1)!.Symbol != ' ' &&
+                this._board.TileAt(x, 2)!.Symbol != ' ') {
             //if middle row is full with same symbol
-            if (this._board.TileAt(1, 0)!.Symbol ==
-                    this._board.TileAt(1, 1)!.Symbol &&
-                    this._board.TileAt(1, 2)!.Symbol ==
-                            this._board.TileAt(1, 1)!.Symbol) {
-                return this._board.TileAt(1, 0)!.Symbol;
+            if (this._board.TileAt(x, 0)!.Symbol ==
+                    this._board.TileAt(x, 1)!.Symbol &&
+                    this._board.TileAt(x, 2)!.Symbol ==
+                            this._board.TileAt(x, 1)!.Symbol) {
+                return this._board.TileAt(x, 0)!.Symbol;
             }
         }
 
-        //if the positions in first row are taken
-        if (this._board.TileAt(2, 0)!.Symbol != ' ' &&
-                this._board.TileAt(2, 1)!.Symbol != ' ' &&
-                this._board.TileAt(2, 2)!.Symbol != ' ') {
+        //if the positions in last row are taken
+        x = 2
+        if (this._board.TileAt(x, 0)!.Symbol != ' ' &&
+                this._board.TileAt(x, 1)!.Symbol != ' ' &&
+                this._board.TileAt(x, 2)!.Symbol != ' ') {
             //if middle row is full with same symbol
-            if (this._board.TileAt(2, 0)!.Symbol ==
-                    this._board.TileAt(2, 1)!.Symbol &&
-                    this._board.TileAt(2, 2)!.Symbol ==
-                            this._board.TileAt(2, 1)!.Symbol) {
-                return this._board.TileAt(2, 0)!.Symbol;
+            if (this._board.TileAt(x, 0)!.Symbol ==
+                    this._board.TileAt(x, 1)!.Symbol &&
+                    this._board.TileAt(x, 2)!.Symbol ==
+                            this._board.TileAt(x, 1)!.Symbol) {
+                return this._board.TileAt(x, 0)!.Symbol;
             }
         }
 
