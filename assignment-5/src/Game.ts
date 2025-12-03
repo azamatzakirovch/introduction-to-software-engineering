@@ -67,15 +67,13 @@ export class Game {
     }
 }
 
-interface Tile
-{
+interface Tile {
     X: number;
     Y: number;
     Symbol: string;
 }
 
-class Board
-{
+class Board {
     private _plays : Tile[] = [];
 
     constructor()
